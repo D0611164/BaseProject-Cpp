@@ -14,6 +14,7 @@
 ├── test                    # Test sources
 └── ...
 ```
+我在這裡宣布吉娃娃是世界上最可愛的狗
 
 # 介紹
 1071 逢甲軟體工程課程使用的專題基礎專案。請使用 [Code::Blocks](http://www.codeblocks.org/) 開發
