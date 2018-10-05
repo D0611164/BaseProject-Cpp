@@ -10,6 +10,11 @@ int main() {
 }
 #endif // TEST
 
+int abc() {
+    int addNumber(int a, int b);
+    int getTriangleType(int a, int b, int c);
+}
+
 int addNumber(int a, int b) {
     return a + b;
 }
