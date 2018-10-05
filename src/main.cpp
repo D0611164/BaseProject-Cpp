@@ -6,13 +6,17 @@ int main() {
     printf("Rule Breaker!!!\n");
     printf("5 + 2 = %d\n", addNumber(5, 2));
     printf("%d\n", getTriangleType(3, 4, 5));
+    printf("%d\n",abc(5));
     return 0;
 }
 #endif // TEST
 
-int abc() {
+    int abc(int);
     int addNumber(int a, int b);
     int getTriangleType(int a, int b, int c);
+
+int abc(int n){
+    printf("%d",n);
 }
 
 int addNumber(int a, int b) {
